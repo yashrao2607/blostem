@@ -313,7 +313,6 @@ See the full [Security Policy](./SECURITY.md) and [Threat Model](./SECURITY.md#-
 
 <div align="center">
 
-**Crafted by [Team WinHAiJi]**
 
 *If ELI helped you, consider giving it a ⭐ — it helps others discover this project.*
 
