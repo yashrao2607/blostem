@@ -1,0 +1,31 @@
+﻿cff-version: 1.2.0
+message: "If you use ELI AI in your research, please cite it as below."
+type: software
+title: "ELI AI: Voice-First Autonomous Desktop Agent"
+abstract: >-
+  ELI AI is an open-source, local-first desktop AI agent built on Electron
+  and React. It provides voice-controlled operating system automation,
+  semantic file search via local vector databases, Android device control
+  over ADB, workflow macro automation, and multimodal AI integration with
+  Google Gemini and Groq. ELI executes real OS-level actions through a
+  secure IPC bridge architecture.
+authors:
+  - family-names: "Rathi"
+    given-names: "Krish"
+    email: "krishrathi877@gmail.com"
+version: "1.0.0"
+date-released: "2026-04-11"
+license: MIT
+repository-code: "https://github.com/krishrathi1/Next-Gen-Friend"
+url: "https://eliaiw.vercel.app"
+keywords:
+  - ai-desktop-assistant
+  - electron-ai-agent
+  - voice-controlled-os
+  - local-first-ai
+  - desktop-automation
+  - ai-workflow-automation
+  - android-remote-control
+  - semantic-file-search
+  - multimodal-ai
+  - open-source-ai-agent
